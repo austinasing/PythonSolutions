@@ -1,6 +1,8 @@
 # PythonSolutions
 Assignment and Data for Python Solutions Project
 
+Download Data from: https://universiteittwente.sharepoint.com/:u:/s/AustinMscThesis/EaejLlXRJZ9PswxcjVynpbQBqQbIA2631U9IdMNO4i6lPw?e=Yvh4Sy
+
 Sources of Data:   
 **Urban Atlas 2018 Land Use (Vector)**  
 https://land.copernicus.eu/en/products/urban-atlas/urban-atlas-2018#download  
